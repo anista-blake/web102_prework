@@ -23,16 +23,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://www.loom.com/share/4a97890ada33407cac0cfba419c8fe26?sid=9db621d0-61ff-4aaf-bf46-f0fed42b7821](https://www.loom.com/share/4a97890ada33407cac0cfba419c8fe26?sid=34132a27-148e-45bf-90f6-1b748b39de9c)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <div>
     <a href="https://www.loom.com/share/4a97890ada33407cac0cfba419c8fe26">
       <p>Video Walkthrough - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/4a97890ada33407cac0cfba419c8fe26">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4a97890ada33407cac0cfba419c8fe26-d285a765cdc2beff-full-play.gif">
+      <img style="max-width:300px;"                  src="https://cdn.loom.com/sessions/thumbnails/4a97890ada33407cac0cfba419c8fe26-d285a765cdc2beff-full-play.gif">
     </a>
-  </div>
+</div>
 
 Video created with Loom.  
 
