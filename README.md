@@ -23,18 +23,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/4a97890ada33407cac0cfba419c8fe26?sid=9db621d0-61ff-4aaf-bf46-f0fed42b7821' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Video created with Loom.  
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only real challenges I faced were either simple syntax errors, such as when I messed up something as simple as a for loop, and figuring out how to utilize certain features given a couple examples, such as using both destructuring and the spread operator together. At the end of the day, I was able to grasp the concepts, I just need more practice with JavaScript.
 
 ## License
 
